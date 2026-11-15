@@ -12,9 +12,8 @@ int main()
         printf("\n\n===================================\n Please enter a number between 1-4!\n===================================");
         return 0;
     }
+
     
-
-
     printf("\n~ Enter quantity: ");
         scanf("%d", &quantity);
     
